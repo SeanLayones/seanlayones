@@ -2,7 +2,7 @@
 
 I'm **Sean Jerome Layones**, a **BSISCS Student** in **City Of Malabon University, Philippines**.
 
-**Full-Stack Developer** | **Programmer**
+**Full-Stack MERN Developer** | **Programmer**
 
 ---
 
