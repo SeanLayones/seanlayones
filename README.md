@@ -6,9 +6,7 @@ I'm **Sean Jerome Layones**, a **BSISCS Student** in **City Of Malabon Universit
 
 ---
 
-I'm a Cyber Security Student specializing in developing solutions with JavaScript, Python, and PHP.
-
-I am currently an BSISCS student in City Of Malabon University and I have fashion in programming, photography, web developing, and photo & video editing.
+Passionate web developer with 4 years of experience in creating dynamic and user-friendly websites Proficient in HTML, CSS, JavaScript, PHP, and MERN Stack with a keen eye for detail and a commitment to delivering exceptional results.
 
 ---
 *Connect with me*
