@@ -18,4 +18,4 @@ Passionate web developer with 4 years of experience in creating dynamic and user
 ---
 **My Website**
 
-[![Website: Sean Jerome Layones](https://img.shields.io/badge/-Sean_Jerome_Layones!-darkblue?style=flat-square&logo=web&logoColor=white&link=http://seanlayones.iceiy.com/)]([https://seanlayones.000webhostapp.com/sjl/](http://seanlayones.iceiy.com/))
+[![Website: Sean Jerome Layones](https://img.shields.io/badge/-Sean_Jerome_Layones!-darkblue?style=flat-square&logo=web&logoColor=white&link=http://seanlayones.iceiy.com/)](http://seanlayones.iceiy.com/))
